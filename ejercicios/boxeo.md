@@ -16,3 +16,9 @@ El boxeo es un deporte de contacto que combina ejercicios de resistencia, fuerza
 3. Trabaja en intervalos de 2-3 minutos por serie, con descansos de 1 minuto entre rondas.
 4. Enfócate en la técnica y la velocidad, manteniendo una postura adecuada en todo momento.
 5. Finaliza con estiramientos para relajar los músculos y prevenir lesiones.
+
+## Consejos
+- Mantén una postura de guardia adecuada para proteger tu rostro y cuerpo.
+- Realiza ejercicios de sombra (shadowboxing) para mejorar la técnica sin necesidad de equipo.
+- Utiliza equipo de protección como guantes y vendas para prevenir lesiones en las manos y muñecas.
+- Escucha a tu cuerpo y no sobrecargues los entrenamientos.
