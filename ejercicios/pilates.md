@@ -2,3 +2,8 @@
 
 ## Descripción
 El pilates es un método de ejercicio que combina movimientos controlados, fortalecimiento del núcleo y técnicas de respiración para mejorar la fuerza, la flexibilidad y el equilibrio.
+
+## Beneficios
+- Fortalece el núcleo (abdomen, espalda y pelvis).
+- Mejora la postura y el equilibrio.
+- Aumenta la flexibilidad y alivia tensiones musculares.
