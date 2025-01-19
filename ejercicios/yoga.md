@@ -13,3 +13,9 @@ El yoga es una práctica que combina posturas físicas, técnicas de respiració
 2. Comienza con ejercicios de respiración (pranayama) durante 2-5 minutos para concentrarte y relajarte.
 3. Realiza una secuencia de posturas (asanas), como el saludo al sol, posturas de equilibrio o torsiones. Mantén cada postura durante 15-30 segundos.
 4. Finaliza con una postura de relajación, como Savasana, durante 5-10 minutos.
+
+
+## Consejos
+- Practica a tu propio ritmo y escucha a tu cuerpo.
+- Usa accesorios como bloques o correas para adaptar las posturas a tu nivel.
+- Incorpora la respiración consciente en cada movimiento para mejorar la conexión mente-cuerpo.
