@@ -14,3 +14,8 @@ El pilates es un método de ejercicio que combina movimientos controlados, forta
 3. Practica ejercicios básicos como el "Cien", el "Puente de Hombros" o el "Roll Up". Realiza de 8 a 12 repeticiones por ejercicio, manteniendo un control constante.
 4. Enfócate en movimientos suaves y controlados mientras sincronizas la respiración con cada ejercicio.
 5. Finaliza con ejercicios de relajación y estiramientos para liberar tensión muscular.
+
+## Consejos
+- Mantén la alineación corporal correcta en cada ejercicio.
+- Activa siempre el núcleo para proteger tu espalda.
+- Ajusta los movimientos según tu nivel y utiliza accesorios como pelotas pequeñas o bandas de resistencia para mayor desafío.
