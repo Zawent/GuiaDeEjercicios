@@ -14,3 +14,7 @@ El entrenamiento funcional se centra en movimientos que imitan las actividades d
 3. Completa circuitos que combinen fuerza, equilibrio y resistencia. Repite cada circuito 2-4 veces según tu nivel.
 4. Finaliza con un enfriamiento y estiramientos para relajar los músculos.
 
+## Consejos
+- Mantén una técnica adecuada en cada ejercicio.
+- Ajusta la intensidad según tu nivel de condición física.
+- Utiliza herramientas como bandas de resistencia, pelotas de estabilidad o pesas ligeras para mayor variedad.
